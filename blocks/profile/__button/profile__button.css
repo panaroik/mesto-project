@@ -1,0 +1,26 @@
+.profile__button {
+  height: 50px;
+  width: 100%;
+  background-color: transparent;
+  outline: 2px solid white;
+  border: none;
+  transition: .5s ease-out;
+}
+
+.profile__button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 599px) {
+  .profile__button {
+    justify-self: end;
+    width: 282px;
+  }
+}
+
+@media screen and (min-width: 949px) {
+  .profile__button {
+    width: 150px;
+  }
+}

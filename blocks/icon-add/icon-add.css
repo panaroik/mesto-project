@@ -1,0 +1,15 @@
+.icon-add {
+  font-size: 16px;
+  transition: .5s ease-out;
+}
+
+.profile__button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 399px) {
+  .icon-add {
+    font-size: 22px;
+  }
+}

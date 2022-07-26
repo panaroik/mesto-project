@@ -1,17 +1,29 @@
-# Проект: Место
+# Project: Place
 
-### Обзор
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/panaroik/mesto-project/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/panaroik/mesto-project/blob/main/README.ru.md)
 
-* Figma
-* Картинки
+Course project on adaptive layout
 
-**Figma**
+## Stack
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
+- HTML
+- CSS
 
-**Картинки**
+## Realization
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+- Flexbox
+- Grid
+- Media Query
 
-Удачи!
+## Figma
+
+* [layout in figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
+
+## URL
+
+* https://panaroik.github.io/mesto-project/
+
+## License
+
+MIT

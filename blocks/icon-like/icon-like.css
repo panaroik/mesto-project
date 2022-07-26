@@ -1,0 +1,10 @@
+.icon-like {
+  color: black;
+  font-size: 22px;
+  transition: .5s ease-out;
+}
+
+.icon-like:hover {
+  opacity: .5;
+  cursor: pointer;
+}
