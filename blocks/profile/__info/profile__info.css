@@ -1,10 +1,15 @@
 .profile__info {
+  display: grid;
+  grid-template-columns: fit-content(500px) min-content;
+  row-gap: 14px;
   padding-bottom: 36px;
+  padding-left: 18px;
 }
 
 @media screen and (min-width: 949px) {
   .profile__info {
     padding: 0;
+    row-gap: 16px;
   }
 }
 

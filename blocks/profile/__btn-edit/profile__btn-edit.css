@@ -1,0 +1,15 @@
+.profile__btn-edit:before {
+  font-family: 'icons';
+  content: '\e902';
+  font-size: 18px;
+  outline: 1px solid white;
+  outline-offset: -1px;
+  margin-left: 10px;
+}
+
+@media screen and (min-width: 699px) {
+  .profile__btn-edit:before {
+    font-size: 24px;
+    margin-left: 18px;
+  }
+}

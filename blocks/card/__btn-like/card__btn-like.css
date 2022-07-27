@@ -1,0 +1,9 @@
+.card__btn-like {
+  font-family: 'icons';
+  color: black;
+  font-size: 22px;
+}
+
+.card__btn-like:before {
+  content: '\e904';
+}
